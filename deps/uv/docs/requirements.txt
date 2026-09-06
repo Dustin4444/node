@@ -9,7 +9,7 @@ beautifulsoup4==4.13.3
 certifi==2025.1.31
 charset-normalizer==3.4.1
 docutils==0.20.1
-idna==3.10
+idna==3.15
 imagesize==1.4.1
 Jinja2==3.1.6
 MarkupSafe==3.0.2
@@ -26,4 +26,4 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==2.0.0
 sphinxcontrib-serializinghtml==2.0.0
 typing_extensions==4.13.0
-urllib3==2.3.0
+urllib3==2.7.0
